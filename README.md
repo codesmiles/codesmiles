@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-
-
 ## Hey 👋, This is Nwogu Michael Daberechi
 [![Gmail Badge](https://img.shields.io/badge/-mikedbchi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mikedbchi@gmail.com)](mailto:mikedbchi@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-michaelnwogu-974547150-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelnwogu-974547150/)](https://www.linkedin.com/in/michaelnwogu-974547150/) [![Github Badge](https://img.shields.io/badge/-codesmiles-grey?style=flat&logo=github&logoColor=white&link=https://github.com/codesmiles/)](https://www.github.com/codesmiles/) [![Twitter Badge](https://img.shields.io/badge/-ccodesmiles-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ccodesmiles/)](https://www.twitter.com/ccodesmiles/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/codesmiles/)](https://github.com/codesmiles/) <p align='left'>Currently, a computer science student of national open university of Nigeria(NOUN), and since its an open and distance learning school gives me the opportunity to work and learn, I'm a person with an interesting personality I love the interest for computer programming, got serious with my programming life in the year 2019 
