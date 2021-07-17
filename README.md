@@ -21,14 +21,16 @@ Here are some ideas to get you started:
  -  👯 I’m looking to collaborate on open source projects and other projects that will make it to my portfolio.
  -  🤔 I’m looking for help with mentorship and guidiance since its all personal effort.
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codesmiles)  
 
-[![Gmail Badge](https://img.shields.io/badge/-mikedbchi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mikedbchi@gmail.com)](mailto:mikedbchi@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-michaelnwogu974547150-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelnwogu974547150/)](https://www.linkedin.com/in/michaelnwogu974547150/) [![Github Badge](https://img.shields.io/badge/-codesmiles-grey?style=flat&logo=github&logoColor=white&link=https://github.com/codesmiles/)](https://www.github.com/codesmiles/) [![Twitter Badge](https://img.shields.io/badge/-ccodesmiles-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ccodesmiles/)](https://www.twitter.com/ccodesmiles/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/codesmiles/)](https://github.com/codesmiles/) <p align='left'>Currently, a computer science student of national open university of Nigeria(NOUN), and since its an open and distance learning school gives me the opportunity to work and learn, I'm a person with an interesting personality I love the interest for computer programming, got serious with my programming life in the year 2019 
-Just completed an internship at zuri internship program, the major objective is to get better and successful in my field of work,
-there are other interesting things left out though if you're interested in knowing more hit me at my social media handles</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=codesmiles alt=codesmiles /> </p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=codesmiles&show_icons=true&include_all_commits=true)](https://github.com/codesmiles/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesmiles&layout=compact)](https://github.com/codesmiles/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=codesmiles)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesmiles)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codesmiles&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codesmiles)  
+
+![Profile views](https://gpvc.arturio.dev/codesmiles)  
