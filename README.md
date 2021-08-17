@@ -20,6 +20,7 @@ Here are some ideas to get you started:
  - 🌱 I’m currently learning pushing my way towards aquiring skilld on the backend(PHP and the frameworks with mysql included).
  -  👯 I’m looking to collaborate on open source projects and other projects that will make it to my portfolio.
  -  🤔 I’m looking for help with mentorship and guidiance since its all personal effort.
+ -  Currently in an internship at HNG/I4G internship and also running a scholarship program at Google Africa Developers Scholarship (GADS)
 
 
 
