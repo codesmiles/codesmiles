@@ -16,7 +16,8 @@ Here are some ideas to get you started:
  -->
   ### Hi there 👋
  ## This is Nwogu Michael Daberechi
- - 🔭 I’m currently working on getting more familiar with my frontend skills, picking up frameworks (Bootstrap and hopefully VueJS).
+ - 🔭 I’m currently working on getting more familiar with my frontend skills, picking up frameworks (Bootstrap and hopefully react).
+ -    Building my way to full-stack development (MERN)
  - 🌱 I’m currently learning pushing my way towards aquiring skilld on the backend(PHP and the frameworks with mysql included).
  -  👯 I’m looking to collaborate on open source projects and other projects that will make it to my portfolio.
  -  🤔 I’m looking for help with mentorship and guidiance since its all personal effort.
