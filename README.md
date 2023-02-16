@@ -16,12 +16,13 @@ Here are some ideas to get you started:
  -->
   ### Hi there 👋
  ## This is Nwogu Michael Daberechi
- - 🔭 I’m currently working on getting more familiar with my frontend skills, picking up frameworks (Bootstrap and hopefully react).
- -    Building my way to full-stack development (MERN)
- - 🌱 I’m currently learning pushing honing my skills the best way possible 
- -  👯 I’m looking to collaborate on open source projects and other projects that will make it to my portfolio.
- -  🤔 I’m looking for help with mentorship and guidiance since its all personal effort.
- -  survived a few internships🤤🤤 like HNG/I4G, zuri and co though I'm currently in KodeCamp and side-hustle to hone my skills on node and react
+ - 🔭 Skills:MERN, laravel, vue, nextjs.
+ -   Available for Job roles (frontend/backend)
+ - 🌱 Looking for production worthy project to improve my necessary skills and soft sklls
+ -  👯 I’m looking to collaborate on open source projects.
+ -  survived a few internships🤤🤤 like HNG/I4G, zuri, kodecamp and co.
+ -  Day by day in every way I get better and better.
+ -  Reach me on phone:+2348136798911
 <!--  -  Previous employer zuri-chat  -->
 
 
