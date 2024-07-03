@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 <!--![Profile views](https://gpvc.arturio.dev/codesmiles)-->
 
-<a href="https://gitroll.io/profile/u72dqPibgFYM2cq6X6niFjn6oUZQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u72dqPibgFYM2cq6X6niFjn6oUZQ2" alt="GitRoll Profile Badge" width="60%"/></a>
+<a href="https://gitroll.io/profile/u72dqPibgFYM2cq6X6niFjn6oUZQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u72dqPibgFYM2cq6X6niFjn6oUZQ2" alt="GitRoll Profile Badge" width="500"/></a>
 
 
