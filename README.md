@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesmiles)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- update -->
-<a href="https://gitroll.io/profile/u72dqPibgFYM2cq6X6niFjn6oUZQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u72dqPibgFYM2cq6X6niFjn6oUZQ2" alt="GitRoll Profile Badge"/></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codesmiles&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codesmiles)  
 
 ![Profile views](https://gpvc.arturio.dev/codesmiles)  
+<!-- update -->
+<a href="https://gitroll.io/profile/u72dqPibgFYM2cq6X6niFjn6oUZQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u72dqPibgFYM2cq6X6niFjn6oUZQ2" alt="GitRoll Profile Badge"/></a>
