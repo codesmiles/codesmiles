@@ -39,9 +39,3 @@ Here are some ideas to get you started:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codesmiles)  
 
 ![Profile views](https://gpvc.arturio.dev/codesmiles)  
-
-<!-- update -->
-![git roll](https://gitroll.io/profile/u72dqPibgFYM2cq6X6niFjn6oUZQ2)
-<!-- update
-<a href="https://gitroll.io/profile/u72dqPibgFYM2cq6X6niFjn6oUZQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u72dqPibgFYM2cq6X6niFjn6oUZQ2" alt="GitRoll Profile Badge"/></a>
- -->
