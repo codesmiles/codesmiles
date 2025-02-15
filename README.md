@@ -12,11 +12,16 @@
 
 # 📊 GitHub Stats:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codesmiles) <br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codesmiles&show_icons=true&count_private=true) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesmiles)](https://github.com/anuraghazra/github-readme-stats) <br/>
+
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=codesmiles&theme=shadow_red&hide_border=false)<br/>-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codesmiles&theme=shadow_red&hide_border=false&count_private=true&include_all_commits=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesmiles&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=codesmiles&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=codesmiles)](https://github.com/ryo-ma/github-profile-trophy) <br/>
+![trophy](https://github-profile-trophy.vercel.app/?username=codesmiles&theme=radical&no-frame=false&no-bg=true&margin-w=4) <br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=@codesmiles&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -24,18 +29,9 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/codesmiles) 
 
-  
-<!-- it was uncommented from this line -->
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codesmiles&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-![](https://github-readme-stats.vercel.app/api?username=codesmiles&theme=shadow_red&hide_border=false&count_private=true&include_all_commits=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codesmiles&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codesmiles&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=codesmiles&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
